@@ -1,9 +1,7 @@
 package org.icecream;
-
 public class Ice {
 	private String color,type,brand,flavour;
 	private int price;
-	
 	public Ice(String color,String type,String brand,String flavour,int price) {
 		this.color=color;
 		this.type=type;
